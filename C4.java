@@ -13,9 +13,34 @@ class C4 {
          * */
          
          byte a = 12;
-         System.out.
-		
+         System.out.println("minimum value of a byte : " + Byte.MIN_VALUE);
+         System.out.println("maximum value of a byte : " + Byte.MAX_VALUE);
+         /**
+          * byte's corrosponding wrapper class is Byte
+          * */
+          
+         short b = 12;
+         System.out.println("minimum value of a short : " + Short.MIN_VALUE);
+         System.out.println("maximum value of a short : " + Short.MAX_VALUE);
+         /**
+          * short's corrosponding wrapper class is Short
+          * */
+          
+         int c = 12;
+         System.out.println("minimum value of a int : " + Integer.MIN_VALUE);
+         System.out.println("maximum value of a int : " + Integer.MAX_VALUE);
+         /**
+          * int's corrosponding wrapper class is Integer
+          * */
+          
+		 /**
+		  * other data types in java = long(Long),double,float,char,boolean
+		  * */
+		  long d = 123456789567l;
+		  float e = 1.23f;
+		  double f = 1.424234242424242424;
+		  boolean g = false;
+		  char h = 'a';
          
     }
 }
-	
