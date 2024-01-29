@@ -33,14 +33,14 @@ class C4 {
           * int's corrosponding wrapper class is Integer
           * */
           
-		 /**
-		  * other data types in java = long(Long),double,float,char,boolean
-		  * */
-		  long d = 123456789567l;
-		  float e = 1.23f;
-		  double f = 1.424234242424242424;
-		  boolean g = false;
-		  char h = 'a';
+          /**
+           * other data types in java = long(Long),double,float,char,boolean
+           * */
+         long d = 123456789567l;
+         float e = 1.23f;
+         double f = 1.424234242424242424;
+         boolean g = false;
+         char h = 'a';
          
     }
 }
