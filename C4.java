@@ -34,7 +34,7 @@ class C4 {
           * */
           
           /**
-           * other data types in java = long(Long),double,float,char,boolean
+           * other data types in java = long(Long),double(Double),float(Float),char(Character),boolean
            * */
          long d = 123456789567l;
          float e = 1.23f;
